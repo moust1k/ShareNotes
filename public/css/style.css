@@ -1,0 +1,25 @@
+html,body,#root {
+    height: 100%;
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+.hide {
+    display: none;
+}
+
+.active {
+    color: red
+}
+
+.nav {
+    margin-left: 50px;
+}
+
+.text{
+    margin-top: .5rem;
+}
